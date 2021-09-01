@@ -6,10 +6,13 @@ A 3D printed binky that signs blaseball scores in semaphore. Uses a Raspberry Pi
 
 Binky.py is the main program while semaphore.py is the dictionary with all the letters/numbers and their related angles
 
-***NOTE***
+***NOTES***
 
 semaphore.py is based off 360 degrees with 0 degrees being the flag pointing straight down. These angles also have not been 100% tested to be accurate and may need to be altered 
 
+The current code in Binky.py looks at the first season and goes through each game that the Tacos played (Taco Baco) and signs out the final score.
+
+# Pretty pictures
 ![Binky in Tinkercad](/Untitled.png)
 ![Binky holding semaphore flags](/binkyFlag.png)
 
