@@ -10,6 +10,7 @@ Binky.py is the main program while semaphore.py is the dictionary with all the l
 
 semaphore.py is based off 360 degrees with 0 degrees being the flag pointing straight down. These angles also have not been 100% tested to be accurate and may need to be altered 
 
+![Binky in Tinkercad](/Untitled.png)
 ![Binky holding semaphore flags](/binkyFlag.png)
 
 Links of insperation / references / other related things
